@@ -58,6 +58,7 @@ button {
   outline: none;
 }
 
+button,
 .button {
   background: none;
   border: 0px;
@@ -68,6 +69,7 @@ button {
   cursor: pointer;
 }
 
+button:hover,
 .button:hover {
   color: #3a3a3a;
 }
